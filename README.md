@@ -6,4 +6,15 @@
 - git pull
 
 # Cooperation
-- Auto merge
+- Auto merge 
+	- use 'git pull' to auto merge (But usually failed)
+- Merge manually
+	<code> 
+	[yours]
+	<<<<<<<<<<< HEAD
+	================
+	[pull from git]
+	>>>>>>>>>>> [commit number]
+	</code>
+	
+	

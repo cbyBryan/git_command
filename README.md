@@ -9,11 +9,11 @@
 - Auto merge 
 	- use 'git pull' to auto merge (But usually failed)
 - Merge manually
-	<code> 
-	[yours]
+	- <code> 
+	'your code'
 	<<<<<<<<<<< HEAD
 	================
-	[pull from git]
+	'pull from git'
 	>>>>>>>>>>> [commit number]
 	</code>
 	

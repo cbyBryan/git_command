@@ -5,4 +5,5 @@
 - git push
 - git pull
 
-# Merge
+# Cooperation
+- Auto merge

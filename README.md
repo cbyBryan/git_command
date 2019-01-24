@@ -22,7 +22,10 @@
 - Show all branch: git branch
 - Switch branch: git checkout [branchname]
 - Delete branch: git branch -d [branchname]
-- TTTTTT
+- Merge two branch: git merge [branchname]
+- Cancel merge two branch: git reset --hard HEAD~
+- Rebase two branch: git rebase --continue
+- Cancel rebase two branch: git rebase --abort
 
 # Another topic
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

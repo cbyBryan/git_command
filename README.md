@@ -5,18 +5,23 @@
 - git push
 - git pull
 
-# Cooperation
+# Merge
 - Auto merge 
 	- use 'git pull' to auto merge (But usually failed)
 - Merge manually
 	```
-	'your code'
+	<your code>
 	<<<<<<<<<<< HEAD
 	================
-	'pull from git'
+	<pull from git>
 	>>>>>>>>>>> [commit number]
 	</code>
 	```
+# Branch
+- Creat new branch: git branch <branchname>
+- Show all branch: git branch
+- Switch branch: git checkout <branchname>
+
 # Another topic
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 	
